@@ -1,0 +1,3 @@
+-Face Recording (Data Set)
+-Auto Delete file training if exist to record new face
+-Auto Create file training if doesnt exist to scan face and finished record
